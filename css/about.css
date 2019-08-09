@@ -1,3 +1,32 @@
-{
-    
+header nav {
+
+     padding-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    font-size: 14px;
+}
+
+.top-content{
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;  
+    width: 100%;
+    padding-left: 15px;
+
+}
+
+.middlee-content{
+
+    display: flex;
+    flex-direction: column;
+}
+.firstrow{
+    display:flex;
+    flex-direction: row;
 }
