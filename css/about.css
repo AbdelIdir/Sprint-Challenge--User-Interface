@@ -41,3 +41,23 @@ header nav {
 }
 
 
+
+
+.boxx.boxa.boxb{
+padding-bottom: 50px;
+}
+
+.allbuttons{
+    margin-top: 14px;
+    border: 3px solid black;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: black;
+   
+    border-radius: 10px;
+    background-color: white;
+
+
+}
