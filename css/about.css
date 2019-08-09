@@ -39,13 +39,24 @@ header nav {
     margin-bottom: 20px;
     
 }
-
-
-
-
-.boxx.boxa.boxb{
-padding-bottom: 50px;
+.firstrow{
+display:
 }
+.boxx{
+    padding-bottom: 50px;
+    border-bottom: 1px dashed black;
+    
+}
+
+.boxa{
+   
+    }
+.boxc{
+    padding-bottom: 50px;
+    }
+
+
+
 
 .allbuttons{
     margin-top: 14px;
@@ -58,6 +69,22 @@ padding-bottom: 50px;
    
     border-radius: 10px;
     background-color: white;
+
+
+}
+
+
+
+img{
+    padding-bottom: 10px;
+}
+
+.bottomm-content{
+    padding-bottom: 30px;
+padding-left: 15px;
+}
+
+.footer{
 
 
 }
