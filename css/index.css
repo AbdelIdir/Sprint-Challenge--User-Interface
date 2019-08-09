@@ -90,12 +90,6 @@ header nav {
     padding-bottom: 20px;
     font-size: 14px;
 }
-ul{ 
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-
-}
 
 
 a{    display: flex;
