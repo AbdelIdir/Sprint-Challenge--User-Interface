@@ -43,17 +43,12 @@ header nav {
 display:
 }
 .boxx{
+    margin: 10px;
     padding-bottom: 50px;
     border-bottom: 1px dashed black;
     
 }
 
-.boxa{
-   
-    }
-.boxc{
-    padding-bottom: 50px;
-    }
 
 
 
