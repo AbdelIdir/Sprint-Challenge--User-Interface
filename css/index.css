@@ -443,3 +443,19 @@ button {
     background-image: linear-gradient(black,gold);
     margin-bottom: 20px;
 }
+
+#prodnav {
+
+    position:sticky;
+    top:0;
+}
+
+
+.consulting:hover {
+    transform:skewY(10deg);
+}
+
+.services:hover {
+    transform:skewY(10deg);
+
+}
