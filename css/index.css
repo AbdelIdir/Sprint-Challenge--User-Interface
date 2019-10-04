@@ -199,42 +199,64 @@ p {
 }
 #one {
   background: teal;
+  animation: pulse 5s infinite;
+
+
 }
 
 #two {
   background: gold;
+  animation: pulse 5s infinite;
+
 }
 
 #three {
   background: cadetblue;
+  animation: pulse 5s infinite;
+
+
 }
 
 #four {
   background: coral;
+  animation: pulse 5s infinite;
+
 }
 
 #five {
   background: crimson;
+  animation: pulse 5s infinite;
+
 }
 
 #six {
   background: forestgreen;
+  animation: pulse 5s infinite;
+
 }
 
 #seven {
   background: darkorchid;
+  animation: pulse 5s infinite;
+
 }
 
 #eight {
   background: hotpink;
+  animation: pulse 5s infinite;
+
 }
 
 #nine {
   background: indigo;
+  animation: pulse 5s infinite;
+
 }
 
 #ten {
   background: dodgerblue;
+  animation: pulse 5s infinite;
+
 }
 
 .bottom-content {
@@ -378,3 +400,26 @@ button {
 
 
 
+@keyframes pulse {
+    0% {
+      background-color: #001F3F;
+    }
+    100% {
+      background-color: #FF4136;
+    }
+
+    50% {
+        background-color:blue;
+      }
+
+      20% {
+          background-color: green;
+      }
+      20% {
+          background-color: gold;
+      }
+  }
+
+
+
+  
